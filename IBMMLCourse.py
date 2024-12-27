@@ -9,7 +9,7 @@ query = '''
 SELECT * FROM allstarfull;
 '''
 
-
+#hello world
 # Execute the query
 observations = pds.read_sql(query, con)
 

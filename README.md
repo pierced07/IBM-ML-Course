@@ -1,0 +1,3 @@
+Hello! This is a collection of everything I have learned in the IBM ML online course. Here's the link if you are interested as well.
+
+https://www.coursera.org/professional-certificates/ibm-machine-learning/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_ibm-machine-learning_ibm_FTCOF_professional-certificates_country-US-country-CA&campaignid=20524101542&adgroupid=154039028340&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=673073309201&hide_mobile_promo&gad_source=1&gclid=Cj0KCQiA4L67BhDUARIsADWrl7Ffq0wo1xVJBtdREvYEMqLwqb8FylgxhSNRvMUvba8BWTkjHvQikngaAkyvEALw_wcB
